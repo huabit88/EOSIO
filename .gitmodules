@@ -7,3 +7,6 @@
 [submodule "cdt"]
 	path = cdt
 	url = https://github.com/EOSIO/eosio.cdt
+[submodule "ejs"]
+	path = ejs
+	url = https://github.com/EOSIO/eosjs
