@@ -19,3 +19,6 @@
 [submodule "hbteos"]
 	path = hbteos
 	url = https://github.com/huabit88/eos
+[submodule "hbtoken"]
+	path = hbtoken
+	url = https://github.com/ecslew/EMDSToken
