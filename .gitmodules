@@ -25,3 +25,6 @@
 [submodule "hbtcon"]
 	path = hbtcon
 	url = https://github.com/ecslew/mds-contract
+[submodule "dao"]
+	path = dao
+	url = https://github.com/ecslew/mds-mutual-aid-dao-eos
