@@ -16,3 +16,6 @@
 [submodule "dmu"]
 	path = dmu
 	url = https://github.com/EOSIO/demux-js
+[submodule "hbteos"]
+	path = hbteos
+	url = https://github.com/huabit88/eos
