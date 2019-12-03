@@ -22,3 +22,6 @@
 [submodule "hbtoken"]
 	path = hbtoken
 	url = https://github.com/ecslew/EMDSToken
+[submodule "hbtcon"]
+	path = hbtcon
+	url = https://github.com/ecslew/mds-contract
